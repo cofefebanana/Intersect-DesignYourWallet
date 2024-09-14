@@ -1,5 +1,3 @@
-# Intersect-DesignYourWallet
-
 # stc Bahrain Branded OneKey Wallet
 
 This repository contains the design files for the stc Bahrain branded OneKey wallet. The design prominently features stc Bahrain's branding, including the iconic skyline of Manama, Bahrain.
